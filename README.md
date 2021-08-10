@@ -7,7 +7,7 @@
 ## 시연 영상
 [![루팡유튜브썸네일](https://img.youtube.com/vi/Tu0eyBPZUZg/0.jpg)](https://www.youtube.com/watch?v=Tu0eyBPZUZg)
 
-사진 클릭 또는 https://www.youtube.com/watch?v=Tu0eyBPZUZ
+사진 클릭 또는 https://youtu.be/Tu0eyBPZUZg
 
 ## 견본 이미지
 ![루팡견본이미지](https://meeta.io:3000/static/user/0pkoxcp9o8fd.png)
